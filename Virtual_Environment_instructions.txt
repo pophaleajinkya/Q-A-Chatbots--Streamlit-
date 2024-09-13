@@ -1,0 +1,19 @@
+#How to create a Venv for Conda Environment if present
+conda create -p venv python -y
+
+else
+
+# for just Venv on macOS
+python3 -m venv venv
+
+# Windows
+# You can also use `py -3 -m venv venv` or python3 -m venv venv
+
+#Activate your venv
+source venv/bin/activate
+
+# for installing the requirements.txt
+pip install -r requirements.txt
+(or) 
+# for hiding the logs
+pip3 install -qqq -r requirements.txt 

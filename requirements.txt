@@ -1,0 +1,9 @@
+# Use 'pip3 install -qqq -r requirements.txt' for installing the below libraries.
+langchain-openai
+langchain
+python-dotenv
+langchain_community
+streamlit
+langchain_core
+watchdog
+langchain_groq
