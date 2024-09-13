@@ -40,6 +40,8 @@
 
 **![](1569bb2083d071295faa21de979dd6ad.png)**
 
+<img width="1708" alt="Screenshot 2024-09-13 at 3 14 16 PM" src="https://github.com/user-attachments/assets/60be0ed6-51c8-4768-8b4a-3344e1a90c01">
+
 **Enter your OpenAI API KEY and Select the respective Chat models.**
 
 **Also Select the temperature and max_tokens parameters for the model.**
