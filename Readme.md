@@ -49,3 +49,6 @@
 **You can play with the application by giving a prompt like below.**
 
 **![](29cbed00733da941d55160a2b8b190b8.png)**
+
+<img width="1710" alt="Screenshot 2024-09-13 at 3 18 25 PM" src="https://github.com/user-attachments/assets/0b0b7f95-29ee-4ffa-9223-fd4b2b97012a">
+
