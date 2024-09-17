@@ -32,7 +32,9 @@
 
 **\# The .env file should contain all the API TOKENS as mentioned below:
       LANGCHAIN_API_KEY=''
+
       GROQ_API_KEY=''
+
       OPENAI_API_KEY=''**
 
 **\# Run the Streamlit Application:**
